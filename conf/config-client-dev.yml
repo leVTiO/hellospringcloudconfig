@@ -1,3 +1,5 @@
 server:
-  port: 8761
-foo: foo version 1
+#   port: 8761
+  prot: 8788
+# foo: foo version 1
+name: this is github config
